@@ -1,6 +1,8 @@
 # BD-AvatarHover-Fix
 BetterDiscord AvatarHover Plugin (fixed with workaround)
 
+---------------------
+
 I'm not the author, I just fixed some issues occurring since BD 1.3.0!  
 Credits to: [Inve1951](https://github.com/Inve1951/)
 
