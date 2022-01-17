@@ -144,7 +144,7 @@ global.AvatarHover = function () {
   };
 
   handleMouseOverOut = function ({ type, target }) {
-    lastTarget = ("mouseover" === type && target.tagName == 'IMG' && target.getAttribute("data-user-id") !== null) ? target : null;
+    lastTarget = ("mouseover" === type && ((target.tagName == 'IMG' && target.getAttribute("data-user-id") !== null) || (target.tagName == 'DIV' && target.getAttribute("data-user-id") !== null))) ? target : null;
     updateHoverCard();
   };
 
