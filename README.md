@@ -9,9 +9,12 @@ No guarantee, that my workaround works for you aswell!
 
 ## Installation
 
-Open ``C:\Users\%USERNAME%\AppData\Roaming\BetterDiscord\plugins`` and find ``AvatarHover.plugin.js``. Rename it to ``AvatarHover.plugin.js.bak`` as backup file. Then download my workaround version and drop it into the plugins folder. Toggle the plugin in BetterDiscord and enjoy.
+1. Open ``C:\Users\%USERNAME%\AppData\Roaming\BetterDiscord\plugins``
+2. Find ``AvatarHover.plugin.js`` and rename it to ``AvatarHover.plugin.js.bak`` as backup file
+3. Download my workaround version and drop it into the plugins folder
+4. Toggle the plugin in BetterDiscord and enjoy
 
-# How does AvatarHover work
+## What's AvatarHover about?
 
 Use ``Ctrl`` / ``Ctrl+Shift``when hovering an avatar to resize it.  
 For more information take a look at the [developers page](https://github.com/Inve1951/BetterDiscordStuff/blob/master/coffee/AvatarHover.plugin.coffee).
