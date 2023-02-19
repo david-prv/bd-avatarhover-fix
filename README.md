@@ -1,5 +1,11 @@
 # BD-AvatarHover-Fix
+
 BetterDiscord AvatarHover Plugin (fixed with workaround)
+
+## ⚠️ Abandoned ⚠️
+This project is abandoned! No further fixed/updates will follow... ever!  
+However, feel free, to develop own fixed based on this. I don't even use BD anymore,
+so I can't.
 
 ---------------------
 
